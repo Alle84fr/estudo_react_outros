@@ -33,3 +33,22 @@ CSS -> aparência
 
 JavaScript ->  interatividade (linguagem de programação)
 
+<span style="color: #d4a373;">site lipsum.com</span> para criar texto - tem btn generate lorem ipson 
+
+<span style="color: #d4a373;">site mussumipsum.com</span> para criar texto mas como se fosse o mussum falando (muito legal) 
+
+<h3 style="color: #023e8a;">tags</h3>
+
+<span style="color: #6a994e;">< trong></span> <strong>infromação inportante</strong>
+
+<span style="color: #6a994e;">< em></span> <em>ênfase a conteúdos - leitores de tela usa bastante</em>
+
+<span style="color: #6a994e;">< mark></span> <mark>marca texto</mark>
+
+<span style="color: #6a994e;">< u></span> <u>underscore</u>
+
+<span style="color: #6a994e;">< del></span> <del>texto "apagado"</del>
+
+<span style="color: #6a994e;">< sup></span> <sub>subscrito</sub> ->x<sub>p</sub>
+
+<span style="color: #6a994e;">< sup></span> <sup>sobrescrito</sup> ->x<sup>2</sup>
