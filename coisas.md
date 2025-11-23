@@ -69,6 +69,9 @@ Aparece numeração e deve ter ordem específica
 
 <span style="color: #6a994e;">li</span> List Item - item da lista
 
+ob:
+<span style="color: #6a994e;">< hr></span> cria uma linha longa horizontalmente - não tem haver com lista
+
 <h3 style="color: #023e8a;">Imagens</h3>
 
 <span style="color: #6a994e;">src</span> SouRCe (fonte, origem)
@@ -102,3 +105,26 @@ ex: subir nível é subir uma pasta, por exemplo <strong><span style="color:#ff4
 <strong>Para subir dois níveis, coloca ../../</strong>
 
 <span style="color: #6a994e;">< figure>< /figure></span> define foto, ilustração, diagram, etc. Dentro dela coloca < img> e <span style="color: #6a994e;">< figcaotion></span>"legenda" da imagem<span style="color: #6a994e;">< /figcaotion></scpan>
+
+<h3 style="color: #023e8a;">links</h3>
+
+<span style="color: #6a994e;">< a>< /a></span> anchor, âncora, apontar
+
+<span style="color: #6a994e;">href</span> hiperlink reference - referência do hiperlink/link
+
+<span style="color: #6a994e;"># e id</span> âncora para subir toda pag, tipo as setas para cima
+
+cria um link no local desejado < a href="#nome do id">texto</ a>
+
+depois, no título ou local que deseja coloca o ide
+< h2 id="nome id">texto< /h2>
+
+<span style="color: #6a994e;">target</span> alvo, local que vai abrir a pág
+
+- <span style="color: #d4a373;">"_self"</span> -mesma- abre na própria aba web
+
+- <span style="color: #d4a373;">"_blank"</span> -vazio, branco- abre uma nova aba web
+
+pode fazer links internos e externos
+
+<h2><strong>index é página main, inicial</strong></h2>
