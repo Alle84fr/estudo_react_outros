@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+</head>
+<body>
+    <h1>Tabela</h1>
+
+    <!-- border não usa mais, usa-se o css para mudar o estilo, aqui é só para dar froma da tabela, já que css não está em uso ainda-->
+    <table border="1" >
+        <tr>
+            <th colspan="6">Desenhos</th>
+        </tr>
+        <tr>
+            <th>Desenho</th>
+            <th>Ano Criação</th>
+            <th>Ano Fim</th>
+            <th>País</th>
+            <th>Episódios</th>
+        </tr>
+        <tr>
+            <td>Tom & Jerry</td>
+            <td>10/02/1940</td>
+            <td>07/09/1967</td>
+            <td>Estado Unidos da América</td>
+            <td>162</td>
+        </tr>
+        <tr>
+            <td>One Piece</td>
+            <td>22/07/1997</td>
+            <td>Presente</td>
+            <td>Japão</td>
+            <td>1100</td>
+        </tr>
+        <tr>
+            <td>Irmão do Jorel</td>
+            <td>10/02/1940</td>
+            <td>Presente</td>
+            <td>Brasil</td>
+            <td>127</td>
+        </tr>
+
+        <tr>
+            <td colspan="5">juntando colunas</td>
+        </tr>
+        <tr>
+            <td rowspan="2">juntando linhas</td>
+            <td colspan="5"> dados</td>
+        </tr>
+        <tr>
+            <!-- a 1° deletei, já que pega a coluna de cima-->
+            <td colspan="5">data</td>
+        </tr>
+    </table>
+</body>
+</html>

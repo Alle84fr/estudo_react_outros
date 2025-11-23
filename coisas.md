@@ -128,3 +128,17 @@ depois, no título ou local que deseja coloca o ide
 pode fazer links internos e externos
 
 <h2><strong>index é página main, inicial</strong></h2>
+
+<h3 style="color: #023e8a;">Tabelas/table</h3>
+
+<span style="color: #6a994e;">tr</span> table Row, linha de tabela
+
+<span style="color: #6a994e;">td</span> table Data, dados da tabela * Table Cell, células da tabela
+
+<span style="color: #6a994e;">th</span> table Header, cabeçalho da tabela
+
+O <u>border</u> não deve mais ser usado, no lugar usa-se o css. No exeercício será usado apenas porque o css ainda não foi introduzido
+
+<span style="color: #6a994e;">colspan</span> extensão da coluna 
+
+<span style="color: #6a994e;">rowspna</span> extensão da linha
