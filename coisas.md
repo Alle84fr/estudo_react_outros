@@ -142,3 +142,11 @@ O <u>border</u> não deve mais ser usado, no lugar usa-se o css. No exeercício 
 <span style="color: #6a994e;">colspan</span> extensão da coluna 
 
 <span style="color: #6a994e;">rowspna</span> extensão da linha
+
+<span style="color: #6a994e;">caption</span> legenda, título da tabela
+
+<span style="color: #6a994e;">theader</span> Table Header - cabeçalho da tabela
+
+<span style="color: #6a994e;">tbody</span> table body, corpo de tabela
+
+<span style="color: #6a994e;">tfoot</span> table footer, rodapé da tabela
