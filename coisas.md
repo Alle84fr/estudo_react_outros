@@ -68,3 +68,37 @@ Ordem não altera resultado final, usa <strong> style </strong>
 Aparece numeração e deve ter ordem específica
 
 <span style="color: #6a994e;">li</span> List Item - item da lista
+
+<h3 style="color: #023e8a;">Imagens</h3>
+
+<span style="color: #6a994e;">src</span> SouRCe (fonte, origem)
+
+<span style="color: #6a994e;">alt</span> texto aparece caso a img não carregue
+
+<strong><span style="color: #d4a373">correto é por a img no projeto, não pegar direto da internet</span> </strong>
+
+Salvar imagem como, salva na pasta, copia a img e coloca na pasta do projeto, digita endereço
+
+<span style="color: #d4a373">tipos de img</span><span style="color: #bb3e03;" > - png, jpg, jpeg, gif </span>
+
+png possibilita transparência
+
+<span style="color: #6a994e;">width</span> largura apenas
+
+<span style="color: #6a994e;">height</span> altura, ela ajuda a manter proporção da largura
+
+<span style="color: #6a994e;">title</span> título da imagem
+
+<span style="color: #6a994e;">para saber proproção da img</span> botão direito na imagem, na pasta, propriedades, detalhes, imagem -> dimensão, largura e altura
+
+<span style="color: #bc6c25;">caminho Absoluto</span> caminho que volta para raiz do projeto de forma automática
+
+ex: subir nível é subir uma pasta, por exemplo <strong><span style="color:#ff4d6d;">/</span> ele começa da pasta raiz do projeto</strong> 
+
+<span style="color: #bc6c25;">caminho relativo</span> caminho relativo a pasta que está, e deve subir níveis para acessar o que deseja
+
+ex: subir nível é subir uma pasta, por exemplo <strong><span style="color:#ff4d6d;">../</span> ele volta "casa", folder</strong> -> caminho relativo
+
+<strong>Para subir dois níveis, coloca ../../</strong>
+
+<span style="color: #6a994e;">< figure>< /figure></span> define foto, ilustração, diagram, etc. Dentro dela coloca < img> e <span style="color: #6a994e;">< figcaotion></span>"legenda" da imagem<span style="color: #6a994e;">< /figcaotion></scpan>
