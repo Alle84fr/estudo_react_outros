@@ -52,3 +52,19 @@ JavaScript ->  interatividade (linguagem de programação)
 <span style="color: #6a994e;">< sup></span> <sub>subscrito</sub> ->x<sub>p</sub>
 
 <span style="color: #6a994e;">< sup></span> <sup>sobrescrito</sup> ->x<sup>2</sup>
+
+<h3 style="color: #023e8a;">Listas</h3>
+
+<span style="color: #6a994e;">lista aninhada</span> Lista dentro de lista
+
+Não se usa mais type em list
+
+<span style="color: #6a994e;">ul</span> UnOrdered list - lista não ordenada
+
+Ordem não altera resultado final, usa <strong> style </strong>
+
+<span style="color: #6a994e;">ol</span> Ordered list - lista ordenada
+
+Aparece numeração e deve ter ordem específica
+
+<span style="color: #6a994e;">li</span> List Item - item da lista
