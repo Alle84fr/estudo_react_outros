@@ -10,6 +10,8 @@ par savar - save worksapece
 <a href="#links">Links</a>
 <a href="#tabelas">Tabelas/Table</a>
 <a href="#formulario">Formulário</a>
+<a href="#trelo">Site Trelo - ex1 formulário</a>
+<a href="#remover">Replace algo no cód</a>
 
 
 <h1 style="color: #023e8a;">Como sites funcionam </h1>
@@ -109,7 +111,7 @@ ob:
 
 Salvar imagem como, salva na pasta, copia a img e coloca na pasta do projeto, digita endereço
 
-<span style="color: #d4a373">tipos de img</span><span style="color: #bb3e03;" > - png, jpg, jpeg, gif </span>
+<span style="color: #d4a373">tipos de img</span><span style="color: #bb3e03;" > - png, jpg, jpeg, gif, svg(aumenta e diminui sem perder qualidade) </span>
 
 png possibilita transparência
 
@@ -250,6 +252,23 @@ usuario, neste caso é valor
 
 - <span style="color: #6a994e;">legend</span> - legenda para conjunto de campos
 
+<br>
+<a href="#topo"><img src="/img/up.jpg" height="30"></a>
+<br>
+
+<h3 style="color: #023e8a;" id="trelo">Site Trelo - ex1 formulário</h3>
+
+https://trello.com/pt-BR?campaign=19269516466&adgroup=148159506607&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=641463051732&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gad_campaignid=19269516466&gbraid=0AAAAADMO9Yha5wWGV_l8cjnwSI2VjT5jG&gclid=CjwKCAiA_orJBhBNEiwABkdmjJCVslKwDSGlOFKiF2kgFkVxKUSswH1tu_1ArdNAKGsfzrVPCQgyTRoCHS4QAvD_BwE
+
+
+
+<br>
+<a href="#topo"><img src="/img/up.jpg" height="30"></a>
+<br>
+
+<h3 style="color: #023e8a;" id="remover">remover coisas</h3>
+
+edit ->  replace (ctrl h) -: find é o que quer mudar -> replace substituir (se deixar vazio fica sem nada) -> enter muda só um ponto, ctrl alt enter muda tudo
 <br>
 <a href="#topo"><img src="/img/up.jpg" height="30"></a>
 <br>
