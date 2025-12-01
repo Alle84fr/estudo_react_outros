@@ -15,6 +15,7 @@ npx create-react-app
 <a href="#formulario">Formulário</a>
 <a href="#trelo">Site Trelo - ex1 formulário</a>
 <a href="#remover">Replace algo no cód</a>
+<a href="#video">Video</a>
 
 
 <h1 style="color: #023e8a;">Como sites funcionam </h1>
@@ -272,6 +273,30 @@ https://trello.com/pt-BR?campaign=19269516466&adgroup=148159506607&targetid=kwd-
 <h3 style="color: #023e8a;" id="remover">remover coisas</h3>
 
 edit ->  replace (ctrl h) -: find é o que quer mudar -> replace substituir (se deixar vazio fica sem nada) -> enter muda só um ponto, ctrl alt enter muda tudo
+<br>
+<a href="#topo"><img src="/img/up.jpg" height="30"></a>
+<br>
+
+<h3 style="color: #023e8a;" id="video">Vídeo</h3>
+
+<span style="color: #6a994e;">source</span> fonte
+
+<span style="color: #6a994e;">control</span> controles, aparecerá símbolo de play, volume, duração, tela cheia, download
+
+<span style="color: #6a994e;">muted</span> mutado
+
+<span style="color: #6a994e;">loop</span> ciclo
+
+<span style="color: #6a994e;">autoplay</span> reprodução automática
+
+<span style="color: #6a994e;">poster</span> cartaz, exibe uma imagem do vídeo, miniatura.
+Não pode estar com autoplay, neste caso
+
+<span style="color: #6a994e;">type</span> é o tipo que no caso é video/mp4 ou /ogg, usa esta segunda caso a 1° nã dê ceto
+
+<span style="color: #6a994e;">iframe</span> in line (coloca item na horizontal)+ quadro = área para colocar conteúdo
+Pode usar qualquer arquivo
+<br>
 <br>
 <a href="#topo"><img src="/img/up.jpg" height="30"></a>
 <br>
