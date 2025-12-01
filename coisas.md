@@ -1,7 +1,10 @@
 <a id="topo"></a>
 file -> add folder to workspace -> trabalha na mesma tela dois projetos separados, ao mesmo tempo -> 1° pega um depois, mesmo caminho o outro
 par savar - save worksapece
-
+<br>
+npx create-react-app
+<br>
+<br>
 <a href="#atalhos">Atalhos Geral</a>
 <a href="#html">HTML</a>
 <a href="#tags">Tags</a>
