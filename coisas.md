@@ -1,7 +1,10 @@
 <a id="topo"></a>
 file -> add folder to workspace -> trabalha na mesma tela dois projetos separados, ao mesmo tempo -> 1° pega um depois, mesmo caminho o outro
 par savar - save worksapece
-
+<br>
+npx create-react-app
+<br>
+<br>
 <a href="#atalhos">Atalhos Geral</a>
 <a href="#html">HTML</a>
 <a href="#tags">Tags</a>
@@ -12,6 +15,7 @@ par savar - save worksapece
 <a href="#formulario">Formulário</a>
 <a href="#trelo">Site Trelo - ex1 formulário</a>
 <a href="#remover">Replace algo no cód</a>
+<a href="#video">Video</a>
 
 
 <h1 style="color: #023e8a;">Como sites funcionam </h1>
@@ -272,3 +276,49 @@ edit ->  replace (ctrl h) -: find é o que quer mudar -> replace substituir (se 
 <br>
 <a href="#topo"><img src="/img/up.jpg" height="30"></a>
 <br>
+
+<h3 style="color: #023e8a;" id="video">Vídeo</h3>
+
+<span style="color: #6a994e;">source</span> fonte
+
+<span style="color: #6a994e;">control</span> controles, aparecerá símbolo de play, volume, duração, tela cheia, download
+
+<span style="color: #6a994e;">muted</span> mutado
+
+<span style="color: #6a994e;">loop</span> ciclo
+
+<span style="color: #6a994e;">autoplay</span> reprodução automática
+
+<span style="color: #6a994e;">poster</span> cartaz, exibe uma imagem do vídeo, miniatura.
+Não pode estar com autoplay, neste caso
+
+<span style="color: #6a994e;">type</span> é o tipo que no caso é video/mp4 ou /ogg, usa esta segunda caso a 1° nã dê ceto
+
+<span style="color: #6a994e;">iframe</span> in line (coloca item na horizontal)+ quadro = área para colocar conteúdo
+Pode usar qualquer arquivo
+<br>
+<br>
+<a href="#topo"><img src="/img/up.jpg" height="30"></a>
+<br>
+<br>
+<h3 style="color: #023e8a;" id="emmet">Emmet</h3>
+
+já vem no vscode
+
+<span style="color: #6a994e;">atalhos</span> escreva apenas h2, ou p, input e dá enter que já arruma
+
+<span style="color: #6a994e;">usando > </span> > mostra que próximo item é filho
+ex: table>tr>td depois enter (deve aparecer marcação mostrando a linha do cód, aí dá o enter)
+<br>
+ex: table>tr>td*5 depois enter, vai repetir 5x o td
+<br>
+<span style="color: #6a994e;">usando + </span> + mostra que próximo item é irmão
+se usar + cria irmãos, um embaixo do outro
+ex:p>h1+h2
+
+<span style="color: #6a994e;">usando ()+() </span> agrupar
+
+ex:(table>tr>td*4)+(h3+h4)
+<br>
+<br>
+<a href="#topo"><img src="/img/up.jpg" height="30"></a>
