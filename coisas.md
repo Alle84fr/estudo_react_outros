@@ -300,3 +300,25 @@ Pode usar qualquer arquivo
 <br>
 <a href="#topo"><img src="/img/up.jpg" height="30"></a>
 <br>
+<br>
+<h3 style="color: #023e8a;" id="emmet">Emmet</h3>
+
+já vem no vscode
+
+<span style="color: #6a994e;">atalhos</span> escreva apenas h2, ou p, input e dá enter que já arruma
+
+<span style="color: #6a994e;">usando > </span> > mostra que próximo item é filho
+ex: table>tr>td depois enter (deve aparecer marcação mostrando a linha do cód, aí dá o enter)
+<br>
+ex: table>tr>td*5 depois enter, vai repetir 5x o td
+<br>
+<span style="color: #6a994e;">usando + </span> + mostra que próximo item é irmão
+se usar + cria irmãos, um embaixo do outro
+ex:p>h1+h2
+
+<span style="color: #6a994e;">usando ()+() </span> agrupar
+
+ex:(table>tr>td*4)+(h3+h4)
+<br>
+<br>
+<a href="#topo"><img src="/img/up.jpg" height="30"></a>
